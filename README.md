@@ -24,15 +24,24 @@ chatbot_stream
            chat.html
 ```
 
-## Run Server  
+## Run FlaskServer  
 ```code
 python app.py
 ```
-
-## Streaming ChatBot 
+Visit URL 
 ```code
 http://127.0.0.1:5000/chat
 ```
+## Run Gradio Server   
+```code
+python gradio_server.py
+```
+Visit URL 
+```code
+http://127.0.0.1:7860
+```
+## Note
+Change the Port number above with your port number.
 ## Gradio Demo On Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/USTAADCOM/chatbot_stream/blob/main/ChatBot_Streaming.ipynb)
