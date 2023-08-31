@@ -33,3 +33,6 @@ python app.py
 ```code
 http://127.0.0.1:5000/chat
 ```
+## Gradio Demo On Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/USTAADCOM/chatbot_stream/blob/main/ChatBot_Streaming.ipynb)
