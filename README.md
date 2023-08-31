@@ -35,4 +35,5 @@ http://127.0.0.1:5000/chat
 ```
 ## Gradio Demo On Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](href=\"https://colab.research.google.com/github/USTAADCOM/chatbot_stream/blob/main/ChatBot_Streaming.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USTAADCOM/chatbot_stream/blob/main/ChatBot_Streaming.ipynb)
+
